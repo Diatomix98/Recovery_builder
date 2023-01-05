@@ -15,7 +15,7 @@ on:
 
 env:
   MANIFEST: https://github.com/crdroidandroid/android.git -b 13.0
-  DEVICE: m10lte
+  DEVICE: hotdog
   DT_LINK: https://github.com/yaap/device_oneplus_sm8150-common.git -b crdroid
   DT_PATH: device/oneplus/sm8150
   TZ: Europe/London
